@@ -1,3 +1,8 @@
+This is a fork of the RaspberryPints project for the specific purpose of upgrading to modern 
+installations (i.e. stretch and PHP7).
+
+
+
 RaspberryPints (RPints) is a digital upgrade to the conventional chalkboard taplist, created just for the home brewer. Display your current beers on tap with a sleek, digital presentation. Manage your beers, recipes, kegs, and taps with our built-in tracking system.
 
 
